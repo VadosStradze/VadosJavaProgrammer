@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbba3621-523b-4f44-87fd-0934c477781d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>strings</find>
+      <find>input</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>users</replace>
+      <replace>user</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectId" id="1YAnh80dTw2dVvJre0UMqwyoZZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="StradzeLearn" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbba3621-523b-4f44-87fd-0934c477781d" name="Default Changelist" comment="" />
+      <created>1582368911741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582368911741</updated>
+      <workItem from="1582368916307" duration="2991000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2991000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="528" y="87" key="#com.intellij.ide.util.MemberChooser" timestamp="1582395621562">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="528" y="87" key="#com.intellij.ide.util.MemberChooser/65.24.1301.744@65.24.1301.744" timestamp="1582395621562" />
+    <state x="561" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582394412059">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="561" y="275" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/65.24.1301.744@65.24.1301.744" timestamp="1582394412059" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1582464540260">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1582464540260" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1582464540258">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1582464540258" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1582464540255">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1582464540255" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1582464540259">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1582464540259" />
+    <state width="1255" height="240" key="GridCell.Tab.1.bottom" timestamp="1582396281146">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="240" key="GridCell.Tab.1.bottom/65.24.1301.744@65.24.1301.744" timestamp="1582396281146" />
+    <state width="1255" height="240" key="GridCell.Tab.1.center" timestamp="1582396281145">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="240" key="GridCell.Tab.1.center/65.24.1301.744@65.24.1301.744" timestamp="1582396281145" />
+    <state width="1255" height="240" key="GridCell.Tab.1.left" timestamp="1582396281144">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="240" key="GridCell.Tab.1.left/65.24.1301.744@65.24.1301.744" timestamp="1582396281144" />
+    <state width="1255" height="240" key="GridCell.Tab.1.right" timestamp="1582396281146">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state width="1255" height="240" key="GridCell.Tab.1.right/65.24.1301.744@65.24.1301.744" timestamp="1582396281146" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582396209569">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1582396209569" />
+  </component>
+</project>
